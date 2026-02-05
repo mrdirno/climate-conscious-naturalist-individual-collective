@@ -1,0 +1,160 @@
+{
+  "book_id": "climate_conscious_naturalist_individual_collective",
+  "title": "The Chroniclers of the Falling Note",
+  "tagline": "To witness the world's last symphony, two scribes must learn its dying language.",
+  "target_words": 70000,
+  "actual_words": 73243,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Grammar of Place",
+    "Witness as Resistance",
+    "The Scramble of Loss",
+    "The Ark and the Altar"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Weight of Rain",
+      "words": 3050
+    },
+    {
+      "ch": 2,
+      "title": "The Node and the Noise",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "The Algorithm's Mandate",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "A Minor in the Data",
+      "words": 2850
+    },
+    {
+      "ch": 5,
+      "title": "Bunker Communities",
+      "words": 3200
+    },
+    {
+      "ch": 6,
+      "title": "The Sound of Scramble",
+      "words": 2980
+    },
+    {
+      "ch": 7,
+      "title": "The Heron's Silence",
+      "words": 3120
+    },
+    {
+      "ch": 8,
+      "title": "Mycorrhizal Networks",
+      "words": 2900
+    },
+    {
+      "ch": 9,
+      "title": "The Capsule's Corrosion",
+      "words": 3300
+    },
+    {
+      "ch": 10,
+      "title": "Protocol Versus Place",
+      "words": 3050
+    },
+    {
+      "ch": 11,
+      "title": "The Ridge's Reckoning",
+      "words": 3150
+    },
+    {
+      "ch": 12,
+      "title": "Data Points and Doubts",
+      "words": 2880
+    },
+    {
+      "ch": 13,
+      "title": "The Steward's Desperation",
+      "words": 3100
+    },
+    {
+      "ch": 14,
+      "title": "A Biography of Bloom",
+      "words": 2950
+    },
+    {
+      "ch": 15,
+      "title": "The Collective of Two",
+      "words": 3250
+    },
+    {
+      "ch": 16,
+      "title": "The Ark's Shadow",
+      "words": 3020
+    },
+    {
+      "ch": 17,
+      "title": "Calibrating to Loss",
+      "words": 3180
+    },
+    {
+      "ch": 18,
+      "title": "The Violent Arrhythmia",
+      "words": 2900
+    },
+    {
+      "ch": 19,
+      "title": "Scribes for the Non-Human",
+      "words": 3350
+    },
+    {
+      "ch": 20,
+      "title": "The Coordinates of Hope",
+      "words": 3000
+    },
+    {
+      "ch": 21,
+      "title": "The Falling Note Flat",
+      "words": 3220
+    },
+    {
+      "ch": 22,
+      "title": "Attendance as Prayer",
+      "words": 2880
+    },
+    {
+      "ch": 23,
+      "title": "The Grammar Unraveled",
+      "words": 3400
+    },
+    {
+      "ch": 24,
+      "title": "The Witness Remains",
+      "words": 2983
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers a 'Node Steward' from the Ark project in their local woodland, struggling with the reality of the ecosystem versus the algorithm's instructions.",
+      "Create a journal entry from Mara's perspective, detailing a specific sonic change in the forest's dawn chorus over a five-year period, and what she believes it means.",
+      "Imagine a confrontation between Elias and a developer for a 'climate retreat' bunker community. The developer argues they are also adapting to survive. Write their dialogue.",
+      "Write a folktale or myth that a future society might tell about 'The Chroniclers,' weaving their meticulous recordings into a legend of remembrance."
+    ],
+    "technical": [
+      "Design a 'Phenology Kit' for citizen scientists inspired by Elias's methods: low-tech, durable tools for observing and recording seasonal changes in a local ecosystem.",
+      "Prototype a conceptual interface for the 'Global Climate Ark Project' AI, showing how it selects 'node' locations and communicates with its stewards. What data does it prioritize, and what does it miss?"
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Robin Wall Kimmerer",
+      "John Muir",
+      "Ursula K. Le Guin",
+      "Werner Herzog"
+    ]
+  },
+  "cover_prompt": "Two elderly scribes, one holding a weathered leather-bound book and the other a stylus poised over a clay tablet, stand back-to-back in a posture of both protection and desperate recording, their faces etched with profound concentration and sorrow, within a vast, decaying concert hall where the architecture is being reclaimed by nature, with vines cracking the marble columns and roots lifting the ornate floor tiles, while spectral, fading musical notes made of light and dust hang in the air, some disintegrating into silent ash, in the atmospheric style of Zdzisław Beksiński's haunting architectural surrealism and the detailed ecological melancholy of Thomas Cole's later works, book cover framing, centered composition with the scribes as the heart of the scene, viewed from a low angle to emphasize the scale of both the crumbling grandeur and their monumental task, lit by a single, dying beam of cold moonlight slicing through a broken dome, illuminating the swirling motes of the falling notes, with a color palette of desaturated umbers, mossy greens, and the last ghostly gold of vanished music against deep charcoal and stone grays, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
